@@ -15,7 +15,7 @@ public class CoffeeMaker {
     }
 
     public void brew(CoffeeBean coffeeBean){
-        System.out.println("CoffeeBeen("+coffeeBean.toString() + "coffee! [_]P ");
+        System.out.println("CoffeeBeen("+coffeeBean.toString() + "coffee!");
     }
 
 }
